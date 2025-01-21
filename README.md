@@ -1,5 +1,6 @@
 # Roulette-prediction-with-graph-using-Python
 ● Developed an interactive interface using python to validate user inputs and implemented a loop-based game that calculates and displays the probability of the user-selected number appearing in subsequent turns.
+
 ● Designed and implemented a series of interactive data visualizations that reduced the time spent on report analysis by25%.
 
 
