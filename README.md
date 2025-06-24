@@ -1,6 +1,6 @@
 # Roulette-prediction-with-graph-using-Python
 
-A simple command-line Roulette game built using Python, designed to simulate the randomness of a real roulette wheel. This project offers a fun way to practice Python programming, randomness, and game logic.
+A simple command-line Roulette game built using Python to simulate the randomness of a real roulette wheel. The game also incorporates graphical representations to visualize the likelihood of user-selected numbers appearing in future turns, making the data easier to interpret.
 
 ---
 
@@ -17,6 +17,7 @@ A simple command-line Roulette game built using Python, designed to simulate the
 - Simulate the behavior of a roulette wheel (numbers, colors, rules).
 - Use random number generation for realistic game outcomes.
 - Allow users to play multiple rounds in a loop.
+- Shows the results and likelihood of the user-selected number that will appear in the next turn.
 
 ---
 
