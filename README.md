@@ -39,7 +39,7 @@ Make sure you have Python installed. Then run:
 
 ```bash
 python roulette_game.py
-
+```
 
 
 
